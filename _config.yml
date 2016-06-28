@@ -1,0 +1,37 @@
+# Site settings
+title:            "Stardust" # 添加博客标题
+author:           Yourname # 添加你的名字
+logo:             logo.png # 添加博客 Logo
+avatar:           avatar.png # 添加你的头像
+favicon:          favicon.ico # 添加用于显示于浏览器 Tab 上的博客图标
+email:            your-email@domain.com
+description: >    # 主题简介，可改为博客描述
+  Roon was an excellent service, with a beautiful understated design. After
+  being acquired by <a href='https://ghost.org'>Ghost</a>, the Roon theme was
+  open sourced.<br> This is my Jekyll port of the Roon theme.
+
+url:              "/" # 添加域名（不需要 http:// 前缀），或使用「/」作为博客根链接，
+baseurl:          "" # the subpath of your site, e.g. /blog/
+
+twitter:          # 添加你的 Twitter 用户名
+github:           # 添加你的 GitHub 用户名
+disqus:           # 添加你的 Disqus 评论工具站点名
+
+permalink:        pretty
+paginate:         5
+
+# Build settings
+markdown:         kramdown
+highlighter:      rouge
+
+kramdown:
+  input:          GFM
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  toc_levels:     1..6
+  enable_coderay: false
+
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
