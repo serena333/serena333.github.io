@@ -4,16 +4,16 @@ markdown:	kramdown
 permalink:	/blog/:title
 
 # Setup
-title:            Thinny
+title:            Rainhill
 tagline:          'blog'
-description:      'My personal blog.'
-url:              http://camporez.github.io
+description:      'It Rains.'
+url:              http://serena333.github.io
 baseurl:          
 commentsystem:    google
 disqus:           example
 
 author:
-  name:           Ian Brunelli
+  name:           Serena
   url:            https://google.com/+IanCamporezBrunelli
 
 paginate:         5
@@ -24,15 +24,15 @@ cover:            /assets/images/cover.jpg
 
 social:
   - icon:         twitter
-    url:          https://twitter.com/iancamporez
+    url:          https://twitter.com/RainhillSerena
     desc:         Follow me on twitter
 
   - icon:         github
-    url:          https://github.com/camporez
+    url:          https://github.com/serena333
     desc:         Fork me on github
 
   - icon:         googleplus-alt
-    url:          https://google.com/+IanCamporezBrunelli
+    url:          https
     desc:         Add me on google+
 
   - icon:         feed
@@ -48,7 +48,7 @@ menu:
 
 copyright:
   author:         Camporez
-  url:            http://camporez.github.io
+  url:            http://serena333.github.io
   type_title:     Some rights reserved
   type_url:       http://creativecommons.org/licenses/by-nc/2.5
 
