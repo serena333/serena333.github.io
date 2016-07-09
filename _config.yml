@@ -43,8 +43,18 @@ menu:
   - title:        Home
     url:          /
 
+  - title:        Beauty
+    url:          /beauty
+	
+  - title:        Learn
+    url:          /learn
+	
+  - title:        Life
+    url:          /life
+	
   - title:        About
     url:          /about
+	
 
 copyright:
   author:         Serena
