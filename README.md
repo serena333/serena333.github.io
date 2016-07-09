@@ -1,16 +1,35 @@
-A [Jekyll](https://jekyllrb.com/) blog template made for simple, readable snippets of your brain drippings.
+#Thinny - The Infinite's Nymphet
 
-[DEMO](http://adueck.github.io/cayman-blog/)
 
-To get this going follow these simple steps:
+----
 
-1. Fork, clone, or download the repository
-2. Edit <code>_config.yml</code>
-3. If you want, swap `img/cover.jpg` for your own header image
-3. Fill up the `_posts` folder with whatever you want to say
-4. run <code>jekyll build</code> and then <code>jekyll serve</code>  
-note: This will require the `jekyll-paginate` gem `$ gem install jekyll-paginate`
+###Attention
 
-You can easily host your blog for free on [GitHub Pages](https://pages.github.com/)
+I'm no longer maintaining this repository.
 
-I made this Jekyll theme by adapting and modifying the [Cayman Theme](https://github.com/jasonlong/cayman-theme) by [Jason Lang](https://github.com/jasonlong), which is licensed under a [Creative Commons Attribution 4.0 International license](http://creativecommons.org/licenses/by/4.0/).
+If you want to add something, feel free to send a pull request, which I'll see if it's okay and merge.
+
+----
+
+##Installation
+1. Clone the repo: `git clone https://github.com/camporez/Thinny.git Thinny`
+2. Open the folder: `cd Thinny`
+3. Install the dependencies: `bundle install`
+4. Build the website: `bundle exec jekyll serve`
+
+##About
+Thinny is a beautiful theme for [Jekyll](http://jekyllrb.com/).
+
+(if you're looking for the [Ghost](http://ghost.org) release of the theme, check [this page](https://github.com/camporez/Thinny/releases/tag/v0.3-alexandra))
+
+##Demo
+[![Preview image](https://f.cloud.github.com/assets/5755892/2002329/bdb5a052-85ed-11e3-8e00-a892910b6917.png)](http://camporez.github.io/)
+The above image is a preview of how the post header looks on Thinny.
+
+A live demo is available [on my personal blog](http://camporez.github.io/).
+
+##More information
+Read the blog post [here](http://camporez.github.io/blog/thinny-2/).
+
+##Reporting issues
+You can report an issue or request a feature [here](http://github.com/camporez/Thinny/issues) or on [twitter](http://twitter.com/iancamporez).
