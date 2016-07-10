@@ -3,7 +3,7 @@ layout: post
 title: "台北斑马线"
 quote: "然而并没有人注意到他们，就像他们也看不见我"
 image: 
- 		 url: /media/2016-07-09-taipei-zebra-crossing/cover.jpg
+ url: /media/2016-07-09-taipei-zebra-crossing/cover.jpg
 video: false
 comments: true
 ---
@@ -19,7 +19,7 @@ comments: true
 绿灯，男孩大跨步走过来。二人并肩，走进夜市里。  
 马路又安静下来。  
   
-「嘿！」
+「嘿！」  
 「你从哪儿冒出来的？」
 
 
