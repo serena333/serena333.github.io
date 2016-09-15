@@ -2,6 +2,7 @@
 layout: post
 title: "孩子，我想跟你说声对不起"
 quote: "最终，我放弃了，我们都放弃了。陪着那个孩子的，只剩下万能的机器猫。"
+dark: true
 image: 
   url: /media/2015-08-01-sorry-to-you/cover.jpg
 video: false
