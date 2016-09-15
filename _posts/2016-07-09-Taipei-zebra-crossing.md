@@ -3,7 +3,7 @@ layout: post
 title: "台北斑马线"
 quote: "然而并没有人注意到他们，就像他们也看不见我"
 image: 
- url: /media/2016-07-09-taipei-zebra-crossing/cover.jpg
+  url: /media/2016-07-09-taipei-zebra-crossing/cover.jpg
 video: false
 comments: true
 ---
