@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "从「刻意练习」说起"
 quote: "耐心地、谦虚地保持大时间周期的刻意练习"
 image: 
